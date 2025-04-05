@@ -14,8 +14,7 @@ A mini database project simulating an airline booking system using SQL. This pro
 | `SQL/DCL.sql`           | User permissions (DCL)                |
 | `SQL/TCL.sql`           | Transaction examples (TCL)            |
 | `SQL/Aggregate.sql`     | Count, Sum, Avg, Joins                |
-| `ER-Diagram.png`        | ER diagram of the system              |
-| `Relational-Schema.pdf` | Normalized relational schema          |
+| `Assets/ER Diagram.png` | ER diagram of the system              |
 | `Conclusion.txt`        | Final learnings and summary           |
 
 ---
