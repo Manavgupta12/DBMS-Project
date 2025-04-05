@@ -1,0 +1,12 @@
+# 📌 Conclusion
+
+This Airline Booking System project provided a comprehensive understanding of database concepts including:
+
+- Table creation and data relationships (DDL)
+- Data insertion and manipulation (DML)
+- User access control (DCL)
+- Transaction handling with COMMIT and ROLLBACK (TCL)
+- Using aggregate functions to extract insights
+
+The project follows a normalized design and showcases a simple, functional implementation of a real-world system using SQL. Great learning experience!
+
